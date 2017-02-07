@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ATOwnerInformation: NSObject {
+public class ATOwnerInformation: NSObject {
 
     public func printOwner() {
         print("Amit Thakur")
